@@ -1,0 +1,21 @@
+# Netscape HTTP Cookie File
+# https://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file! Do not edit.
+
+.crunchyroll.com	TRUE	/	TRUE	1824368812	device_id	e0e023ec-6cad-4b17-9e83-c53351b955b5
+.crunchyroll.com	TRUE	/	FALSE	1821344814	ajs_anonymous_id	12cd040e-308f-404e-9d34-cb0846cbf318
+.crunchyroll.com	TRUE	/	TRUE	1821344812	c_locale	en-US
+www.crunchyroll.com	FALSE	/	FALSE	1817452640	anonymous_antiphishing_warning	1785823765110
+.www.crunchyroll.com	TRUE	/	FALSE	1817359769	OptanonAlertBoxClosed	2026-08-04T06:09:29.186Z
+.crunchyroll.com	TRUE	/	FALSE	1817452640	_clck	qnqhen%5E2%5Eg8c%5E0%5E2407
+.crunchyroll.com	TRUE	/	TRUE	1820476669	etp_rt	7d85ab55-79c7-4a99-b6a9-b38d16744991
+.crunchyroll.com	TRUE	/	FALSE	1821344814	ajs_user_id	6582b6f9-09be-572a-94df-c2b3857145a8
+.crunchyroll.com	TRUE	/	FALSE	1819612927	_uetvid	0a3300008fcb11f18d393337687bf40d
+.www.crunchyroll.com	TRUE	/	TRUE	1817452930	__stripe_mid	cc91e428-e8da-41b4-8875-b95f7bd6890917be74
+.www.crunchyroll.com	TRUE	/	FALSE	1821344810	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Sep+19+2026+14%3A36%3A50+GMT%2B0530+(India+Standard+Time)&version=202606.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&genVendors=V1%3A0%2CV17%3A0%2CV11%3A0%2CV3%3A0%2CV7%3A0%2CV2%3A0%2C&consentId=86980c10-6d7d-4534-add9-f54be9b3065b&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&isDntEnabled=1&prevHadToken=0&AwaitingReconsent=false&groups=C0001%3A1%2CC0003%3A0%2CC0002%3A0%2CC0004%3A0&fclco=&lastConsentTs=1785823769&intType=2&crTime=1785823771363&geolocation=IN%3BRJ
+.crunchyroll.com	TRUE	/	TRUE	1789810612	__cf_bm	Dk3Vxu.oxHCylBmtlR63sGsfJcEJKSM.mbaRnHrKUKo-1789808812.2060409-1.0.1.1-ROKD0fq7gXPD84yh1KLHKVv.sUAdfhBjVqfhfOntu3Trf7vQoMnBBxgbDbYR0MFucmduZzVz9DjwJBbk90IW_I9m54mEnORugCV.5fvh8DRhbPgDWQHwMfDV6dxvRi.Vy5lkgApNyzn1rDZq9ctFQA
+.crunchyroll.com	TRUE	/	TRUE	0	cr_exp	6582b6f9-09be-572a-94df-c2b3857145a86582b6f9-09be-572a-94df-c2b3857145a8
+.crunchyroll.com	TRUE	/	FALSE	1824368814	ab.storage.userId.80f403d2-1c18-471d-b0ef-243d1d646436	%7B%22g%22%3A%226582b6f9-09be-572a-94df-c2b3857145a8%22%2C%22c%22%3A1789808814059%2C%22l%22%3A1789808814063%7D
+.crunchyroll.com	TRUE	/	FALSE	1824368814	ab.storage.deviceId.80f403d2-1c18-471d-b0ef-243d1d646436	%7B%22g%22%3A%2257a8d4ca-858e-a1f1-c2dd-784b4a3a730b%22%2C%22c%22%3A1789808814066%2C%22l%22%3A1789808814066%7D
+.crunchyroll.com	TRUE	/	FALSE	1824368814	ab.storage.sessionId.80f403d2-1c18-471d-b0ef-243d1d646436	%7B%22g%22%3A%22b0f621d1-8e3a-023f-07ee-360c59ed6f0f%22%2C%22e%22%3A1789810614077%2C%22c%22%3A1789808814061%2C%22l%22%3A1789808814077%7D
+.crunchyroll.com	TRUE	/	TRUE	1821344812	cf_clearance	0JJ9NRb2rw7f.eOtQ96H13taOYsOOeQkY1z35BKB5XU-1789808812-1.2.1.1-dCcSEgGDxvBMklKbE9hxrXNRI9EW7DLJHOrbR6PvIynIvYDdGGHEuFi7htF6Hp23GvLKkLa4w5TQPLIrTUct2_MlgJlTNuO9YzMRLFOP8IBrjZtaBEjcdCMSyTp9VWON3P8BjSwZefIdl89NDhIk4xWri1.gkB0UBW4p7bp5pJXh2nf0ouPAeuRi6CtPYtN_5Oktt067eVroSM08q3RYhTKZoYuk01rxWE.RE6MRO6MZQln8SN202q0OorhT5FLnBDcnpVMIlWoB2r67q9bm6s0Hvyxi.n1g9fRZOM0LB4KwfrfNB8nxeudQ_bGdIwK.ksgRxpTtfei6VG10CElXMtIj1L144bnBP2caAYRGTWM
