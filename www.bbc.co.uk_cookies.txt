@@ -1,0 +1,14 @@
+# Netscape HTTP Cookie File
+# https://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file! Do not edit.
+
+.bbc.co.uk	TRUE	/	TRUE	1821345010	ckns_device_id	d4ff30d1-2bb2-4e80-a1de-932f3d407784
+.bbc.co.uk	TRUE	/	TRUE	1821345011	ckns_explicit	0
+.bbc.co.uk	TRUE	/	TRUE	1821345011	ckns_policy	111
+.bbc.co.uk	TRUE	/	TRUE	1823937011	ckns_policy_exp	1821345011297
+.bbc.co.uk	TRUE	/	TRUE	1824109811	atuserid	%7B%22name%22%3A%22atuserid%22%2C%22val%22%3A%22af998236-8f5e-4655-9bf7-f6795029b6c3%22%2C%22options%22%3A%7B%22end%22%3A%222027-10-21T09%3A10%3A11.539Z%22%2C%22path%22%3A%22%2F%22%7D%7D
+.bbc.co.uk	TRUE	/	TRUE	1821345011	ckns_mvt	d97a439f-bd16-4b4e-b7b0-d39b1a986b3d
+.bbc.co.uk	TRUE	/	TRUE	1821345011	ckns_iplayer_experiments	{}
+www.bbc.co.uk	FALSE	/	TRUE	1821345012	DotMetrics.DomainCookie	{"dc":"95a6bb61-297a-4446-99d4-b519db02d363","ts":1789809012420}
+www.bbc.co.uk	FALSE	/	TRUE	0	DM_SitId1383	1
+www.bbc.co.uk	FALSE	/	TRUE	0	DM_SitId1383SecId11839	1
