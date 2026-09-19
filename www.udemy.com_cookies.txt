@@ -1,0 +1,35 @@
+# Netscape HTTP Cookie File
+# https://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file! Do not edit.
+
+.udemy.com	TRUE	/	TRUE	1821344922	__udmy_2_v57r	ea98f7ed22784f90b9d160a48ea10438
+.udemy.com	TRUE	/	TRUE	1789808952	ud_country_code	IN
+.udemy.com	TRUE	/	TRUE	1789810716	__cf_bm	CdTb.ng6uI7dRjkcAedhhUDangHFW55XUvcGEPXPwhc-1789808916.5941072-1.0.1.1-7QJ1VgFt6lTfx9S.rp8MVPk9xj1y13YSNbqEIFjqhFExtH0L9FINGfFdgMpgz3lJo9JeXlA7RGeMWN60MTOlP94nA0S5OAr.J5Ce81xzz3C2ko_I8P3Ino2qTNJZhmNJ
+.udemy.com	TRUE	/	TRUE	1789810717	eventing_session_id	ZDcwZDE1NmYtMTBiNS00MT-1789810717431
+www.udemy.com	FALSE	/	TRUE	1789895322	ud_cache_brand	INen_US
+www.udemy.com	FALSE	/	TRUE	1789895322	ud_cache_marketplace_country	IN
+www.udemy.com	FALSE	/	TRUE	1789895322	ud_cache_price_country	IN
+www.udemy.com	FALSE	/	TRUE	1789895322	ud_cache_release	7800070c684770cda0f6
+www.udemy.com	FALSE	/	TRUE	1789895322	ud_cache_user	""
+www.udemy.com	FALSE	/	TRUE	1789895322	ud_cache_version	1
+www.udemy.com	FALSE	/	TRUE	1789895322	ud_cache_language	en
+www.udemy.com	FALSE	/	TRUE	1789895322	ud_cache_device	None
+www.udemy.com	FALSE	/	TRUE	1789895322	ud_cache_logged_in	0
+.www.udemy.com	TRUE	/	FALSE	1821344917	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Sep+19+2026+14%3A38%3A37+GMT%2B0530+(India+Standard+Time)&version=202509.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f3ec0c34-7b33-4cbd-b563-0926307bdc31&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.udemy.com%2F%3Fsrsltid%3DAU7gw4XIXxQG8D8wTvMMOwMITLjR_t1RW_YhOUpVYShxZL_q4osS0oTq&groups=C0003%3A1%2CC0004%3A0%2CC0005%3A0%2CC0002%3A1%2CC0001%3A1
+www.udemy.com	FALSE	/	TRUE	1789895322	ud_cache_campaign_code	25BBPMXNVD35
+www.udemy.com	FALSE	/	TRUE	0	ud_cart_bs	91ce859d9f1c4bc68c2d3d9eef305ff5
+www.udemy.com	FALSE	/	FALSE	1821344920	ud_firstvisit	2026-09-19T09:08:38.717265+00:00:1x7r3n:_dlcS_bv0jFMW5IDWGgji7UCyuXuaBaMJ7BZlY9vXDk
+.udemy.com	TRUE	/	FALSE	1797584920	_gcl_au	1.1.1233597737.1789808920
+www.udemy.com	FALSE	/	FALSE	1790413720	blisspoint_fpc	cbc4b7b8-998b-476f-9f40-0f216be8360c
+.udemy.com	TRUE	/	FALSE	0	IR_gbd	udemy.com
+.udemy.com	TRUE	/	TRUE	1821344921	brwsr	b5245b1f-b409-11f1-804c-172d609c6da0
+.udemy.com	TRUE	/	TRUE	1789895321	irtps	1
+.udemy.com	TRUE	/	TRUE	0	IR_39854	1789808921069%7C0%7C1789808921069%7C%7C
+.udemy.com	TRUE	/	TRUE	1821344921	IR_PI	b5245b1f-b409-11f1-804c-172d609c6da0%7C1789895321175
+.udemy.com	TRUE	/	FALSE	1821344921	_yjsu_yjad	1789808921.ba16f397-3b9a-45fc-afb3-b49bb4620254
+.udemy.com	TRUE	/	FALSE	1823504921	_uetvid	b53737b0b40911f1a1527f51654acb06
+www.udemy.com	FALSE	/	FALSE	1792400922	evi	"3@tpHY1llAVP0RJqFL-orKj2o3DYzqMATAylQxtrX3HthSurx-4jY4eWJB"
+www.udemy.com	FALSE	/	FALSE	1824368922	ud_rule_vars	"eJx9jcsOgjAQRX-FdKuQoVT6-JYmzVCm2GhsLIUN4d8lURNXbm_uOWdjBfNEhUa3xjmWlA2hVkHSyLlUImgY9Nj2gEIRtiA6ZXxKt0jMVGyzLMQ8lzfrRixkj90yDryvQdetrkAbUKZTTQfiouUJwABYdj5edzzQkhZ_dSVjCNG7OS3Zk1sxRxzuH1vKEz6i_4EyPRea_xZF20ghlRLf4s72F8pgSBI=:1x7r3p:ix7dHAac73zJyQvtSrB2RM9J_MyGvici456ACE3hM-g"
+.udemy.com	TRUE	/	FALSE	1789895321	_uetsid	b5371560b40911f1997e8bdd03f07a6f|13ziz4|2|g9l|0|2453
+.udemy.com	TRUE	/	FALSE	1821344921	AMP_7269f546a4	JTdCJTIyZGV2aWNlSWQlMjIlM0ElMjI5YTExOGUxNS05YWE1LTRjOTYtOWNmZS03MmIwMzI1NDNmMTAlMjIlMkMlMjJzZXNzaW9uSWQlMjIlM0ExNzg5ODA4OTIxODg3JTJDJTIyb3B0T3V0JTIyJTNBZmFsc2UlMkMlMjJsYXN0RXZlbnRUaW1lJTIyJTNBMTc4OTgwODkyMTk2NyUyQyUyMmxhc3RFdmVudElkJTIyJTNBMyUyQyUyMnBhZ2VDb3VudGVyJTIyJTNBMSUyQyUyMmNvb2tpZURvbWFpbiUyMiUzQSUyMi51ZGVteS5jb20lMjIlN0Q=
+.udemy.com	TRUE	/	TRUE	1821344916	cf_clearance	Boc0qbhMod1HzycCCMbprLHOjMfnH7anViWyljOoH6U-1789808916-1.2.1.1-mlD2jnAokHbJXAhBUhWyDCc6pFbivmEYZzqTq51uIs8ujBTN8zhCh_dZiLkUo6HsoXbbU0QHNTPSdTnn2VR_RC.uS5orK._xu.JyeD2kghoAte6OUWnIDMRYfXoWNwfBlPhSlyP3zV3CDkSfaB6bldGXisSYq9Y4PQNek8PCP61a7NDmribf6vi04BzAjCE9UalnwuMxCTcaiFXgrgY4Xgq0fINZ5GgSJ9rt3dPix24tgzui72UzfYGEtmnfiP5JItvP7GY6LVFzm2xkNPlh5T8DEPRHAp1Xz20F4HV4AZGfAP0kNfNTJqtO1Lli7b4caZzXD.BzFGCxKHLCBR1D3_u9K0Op7z.WFO7bHikJQng
