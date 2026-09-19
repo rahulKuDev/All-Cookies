@@ -1,0 +1,19 @@
+# Netscape HTTP Cookie File
+# https://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file! Do not edit.
+
+.mxplayer.in	TRUE	/	TRUE	1824369061	platform	com.mxplay.desktop
+.mxplayer.in	TRUE	/	TRUE	1824369061	UserID	626713fc-df01-40ee-8172-e14678ba070b
+.mxplayer.in	TRUE	/	TRUE	1824369061	languageDismissed	false
+.mxplayer.in	TRUE	/	TRUE	1824369061	Content-Languages	hi,en
+.mxplayer.in	TRUE	/	FALSE	1797585062	_fbp	fb.1.1789809062283.832114780788537588
+.mxplayer.in	TRUE	/	TRUE	1823505062	_scor_uid	112cb4428b2548268f0ad2ed092570d7
+.mxplayer.in	TRUE	/	TRUE	1824369063	scrnWdth	1536
+.mxplayer.in	TRUE	/	TRUE	1824369063	scrnDPI	1.25
+.mxplayer.in	TRUE	/	TRUE	1824369063	isWebpSupported	1
+.mxplayer.in	TRUE	/	FALSE	1789895462	_gid	GA1.2.1168822612.1789809063
+.mxplayer.in	TRUE	/	FALSE	1789809122	_gat	1
+.mxplayer.in	TRUE	/	FALSE	1797585063	_gcl_au	1.1.38547836.1789809063
+.mxplayer.in	TRUE	/	FALSE	1824369063	_ga_L9MTP48BE1	GS2.1.s1789809063$o1$g0$t1789809063$j60$l0$h0
+.mxplayer.in	TRUE	/	FALSE	1824369063	_ga	GA1.1.1303171775.1789809063
+.mxplayer.in	TRUE	/	FALSE	1824369063	_ga_Y69SPCQ4WF	GS2.2.s1789809063$o1$g0$t1789809063$j60$l0$h0
