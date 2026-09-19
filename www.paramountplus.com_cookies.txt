@@ -1,0 +1,22 @@
+# Netscape HTTP Cookie File
+# https://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file! Do not edit.
+
+www.paramountplus.com	FALSE	/	TRUE	1821344866	CBS_ST	ANONYMOUS
+.paramountplus.com	TRUE	/	FALSE	1821344868	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Sep+19+2026+14%3A37%3A48+GMT%2B0530+(India+Standard+Time)&version=202601.2.0&browserGpcFlag=0&isIABGlobal=false&identifierType=null&hosts=&genVendors=V20%3A0%2CV16%3A0%2CV21%3A0%2C&landingPath=https%3A%2F%2Fwww.paramountplus.com%2Fintl%2F&groups=1%3A1%2C2%3A1%2C3%3A1%2C4%3A1%2C5%3A1
+.paramountplus.com	TRUE	/	FALSE	0	irclickid	undefined
+www.paramountplus.com	FALSE	/	FALSE	0	optanonConsentValues	{"kidsFlag":"true","_optanonConsentPerformance":"1","_optanonConsentFunctional":"1","_optanonConsentMarketing":"1","_optanonConsentSocial":"1"}
+.paramountplus.com	TRUE	/	FALSE	1821344868	utag_main	v_id:01a0b8ebfb92000fc54b662c4da30506f002306700978$_sn:1$_se:2$_ss:0$_st:1789810668270$ses_id:1789808868243%3Bexp-session$_pn:1%3Bexp-session$vapi_domain:paramountplus.com
+.paramountplus.com	TRUE	/	FALSE	1824368868	kv_id	kw1af975a2a6ca1
+.paramountplus.com	TRUE	/	FALSE	0	AMCVS_10D31225525FF5790A490D4D%40AdobeOrg	1
+.paramountplus.com	TRUE	/	FALSE	1824368868	AMCV_10D31225525FF5790A490D4D%40AdobeOrg	359503849%7CMCMID%7C48871866812042114250227379852492742824%7CMCAAMLH-1790413668%7C12%7CMCAAMB-1790413668%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1789816068s%7CNONE%7CvVersion%7C5.0.1
+.paramountplus.com	TRUE	/	FALSE	0	prevPageType	prelaunch_landing
+.paramountplus.com	TRUE	/	FALSE	0	s_cc	true
+.paramountplus.com	TRUE	/	TRUE	1823936869	kndctr_10D31225525FF5790A490D4D_AdobeOrg_identity	CiY0ODg3MTg2NjgxMjA0MjExNDI1MDIyNzM3OTg1MjQ5Mjc0MjgyNFIRCKX8r8eLNBgBKgRJTkQxMAPwAaX8r8eLNA%3D%3D
+.paramountplus.com	TRUE	/	TRUE	1789810669	kndctr_10D31225525FF5790A490D4D_AdobeOrg_cluster	ind1
+.paramountplus.com	TRUE	/	FALSE	1797584868	_gcl_au	1.1.492995363.1789808869
+.paramountplus.com	TRUE	/	FALSE	1789895268	_uetsid	95e4ac00b40911f1ae728bca89aba1f3
+.paramountplus.com	TRUE	/	FALSE	1823504868	_uetvid	95e58370b40911f1b74a857d6bb44ccf
+.paramountplus.com	TRUE	/	FALSE	1797584868	_fbp	fb.1.1789808868804.522347856225467720
+.paramountplus.com	TRUE	/	FALSE	1821344869	_clck	xh7jmj%5E2%5Eg9l%5E0%5E2453
+.paramountplus.com	TRUE	/	FALSE	1789895270	_clsk	1sqwa34%5E1789808870062%5E1%5E0%5El.clarity.ms%2Fcollect
