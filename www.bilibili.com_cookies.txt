@@ -1,0 +1,18 @@
+# Netscape HTTP Cookie File
+# https://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file! Do not edit.
+
+.bilibili.com	TRUE	/	FALSE	1821345059	buvid3	99216F76-E400-FC4F-DCD0-EE6A27DFBEB362952infoc
+.bilibili.com	TRUE	/	FALSE	1821345059	b_nut	1789808962
+.bilibili.com	TRUE	/	FALSE	0	bsource	search_google
+.bilibili.com	TRUE	/	FALSE	1821344964	_uuid	1068F6497-3824-6B1C-F959-CED1068102646464216infoc
+.bilibili.com	TRUE	/	FALSE	1824368965	buvid_fp	8a892de0d80d7d3ad0caa63b3a31e72c
+.bilibili.com	TRUE	/	FALSE	1821344964	home_feed_column	5
+.bilibili.com	TRUE	/	FALSE	1821344964	browser_resolution	1536-695
+www.bilibili.com	FALSE	/	FALSE	0	bmg_af_switch	1
+www.bilibili.com	FALSE	/	FALSE	0	bmg_src_def_domain	i1.hdslb.com
+www.bilibili.com	FALSE	/	FALSE	0	bmg_af_sc	{"none":{"on":1,"def":"i1.hdslb.com"},"sgp":{"on":1,"def":"i1-sgp.hdslb.com"}}
+.bilibili.com	TRUE	/	FALSE	1790068166	bili_ticket	eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3OTAwNjgxNjYsImlhdCI6MTc4OTgwODkwNiwicGx0IjotMX0.GXr-igwZ0gr9fJkJ2rfLGPiIIq1ft5Szbq3Fxow5otE
+.bilibili.com	TRUE	/	FALSE	1790068166	bili_ticket_expires	1790068106
+.bilibili.com	TRUE	/	FALSE	0	b_lsid	6CD0F44A_1A0B8ED8890
+.bilibili.com	TRUE	/	FALSE	1824368970	buvid4	60C39C2D-2A7E-6F02-A12E-F84408AE876266439-026091917-OKpdk/Jm5bvvq4TtVpHGHA%3D%3D
